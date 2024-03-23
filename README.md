@@ -1,6 +1,6 @@
 <h1 align="center">Hello,It is me Hibo the Developer</h1>
 <h3 align="center">A passionate Software Developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/muslim-girl-thumbs-up-7niwf9br4zil3nwj.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiboherson&label=Profile%20views&color=0e75b6&style=flat" alt="hiboherson" /> </p>
